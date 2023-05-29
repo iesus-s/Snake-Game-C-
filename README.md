@@ -1,2 +1,2 @@
-# Snake-Game-MIPS-Assembly-
+# Snake-Game-C++
 Classic Snake game with a twist.
