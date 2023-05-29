@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1646596727 source:c:\users\jesus\onedrive\desktop\spring 2022\compe 271\snake project\main.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
